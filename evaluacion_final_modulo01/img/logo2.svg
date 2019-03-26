@@ -1,0 +1,17 @@
+<svg width="109" height="121" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#ad9191" id="canvas_background" height="123" width="111" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" stroke-dasharray="2,2" id="svg_1" d="m11.964988,25.888151l0,0c8.008287,0 14.50029,-7.611311 14.50029,-17.000342l57.99942,0l0,0c0,9.389027 6.492003,17.000342 14.500284,17.000342l0,67.999331l0,0c-8.008284,0 -14.500284,7.611304 -14.500284,17.000335l-57.99942,0c0,-9.389034 -6.492003,-17.000335 -14.50029,-17.000335l0,-67.999331z" stroke-width="1.5" fill="#FFAC8D"/>
+  <text stroke="#000" transform="matrix(4.653926244183133,0,0,1.6992874145507812,-151.727735556041,-23.928741216659546) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="58.9375" x="38" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <path stroke="#000" id="svg_3" d="m18.82999,31.70809l0,0c6.81165,0 12.33358,-6.26813 12.33358,-14.00028l49.33285,0l0,0c0,7.73214 5.52193,14.00028 12.33357,14.00028l0,55.99945l0,0c-6.81164,0 -12.33357,6.26813 -12.33357,14.00027l-49.33285,0c0,-7.73214 -5.52193,-14.00027 -12.33358,-14.00027l0,-55.99945z" stroke-opacity="null" stroke-width="0" fill="#B8874D"/>
+  <text font-style="italic" font-weight="bold" stroke="#000" transform="matrix(1.116727008100133,0,0,1.8419177081347948,-57.86111138977814,-37.88081796018209) " stroke-dasharray="5,2,2,2" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="24" id="svg_5" y="61.61397" x="72.902977" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">HMF</text>
+ </g>
+</svg>
